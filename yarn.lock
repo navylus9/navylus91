@@ -1376,9 +1376,9 @@
   integrity sha512-Ekp6EbHqcWVwQI5SdAUn/G3EflzZBAvMwchkNp1saTqAwZA5EavfWbk4ops6U5yAYWGcVkXSJDHxu4rq4+M7ZA==
 
 "@foudroyer/purity@*":
-  version "1.18.5"
-  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.18.5.tgz#9a79d3ceb09b613952bb0ff315056d973c013a26"
-  integrity sha512-btK6i7ReEvd1nRzbYInyBYprpCYyXFd7MyS/OUTjWFUV6y/T2ybFsOMXxa+thiDGyk0dan30swcn1PR7o190OQ==
+  version "1.18.6"
+  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.18.6.tgz#2a2e9d1cde9fcc718bc6f2773cc3d2ad00a74ec4"
+  integrity sha512-njmMG4XJ0VMxFYX7dIKurLnqQKS+7npUQzlsjaE7NPRjJsa+oW2Q827pKZk+cmy9Hxf8K2o/nOlyGSg2VW6nnA==
   dependencies:
     "@foudroyer/interfaces" "*"
     "@headlessui/react" "1.5.0"
@@ -3824,7 +3824,7 @@ ansi-html@^0.0.7:
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
-  integrity sha1-w7M6te42DYbg5ijwRorn7yfWVN8=
+  integrity sha512-TIGnTpdo+E3+pCyAluZvtED5p5wCqLdezCyhPZzKPcxvFplEt4i+W7OONCKgeZFT3+y5NZZfOOS/Bdcanm1MYA==
 
 ansi-regex@^4.1.0:
   version "4.1.1"
@@ -4081,7 +4081,7 @@ array.prototype.foreach@^1.0.0:
 arrify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
-  integrity sha1-iYUI2iIm84DfkEcoRWhJwVAaSw0=
+  integrity sha512-3CYzex9M9FGQjCGMGyi6/31c8GJbgb0qGyrx5HWxPd0aCwh4cB2YjMb2Xf9UuoogrMrlO9cTqnB5rI5GHZTcUA==
 
 arrify@^2.0.1:
   version "2.0.1"
@@ -4413,7 +4413,7 @@ bluebird@^3.0.5, bluebird@^3.7.2:
 bmp-js@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/bmp-js/-/bmp-js-0.1.0.tgz#e05a63f796a6c1ff25f4771ec7adadc148c07233"
-  integrity sha1-4Fpj95amwf8l9Hcex62twUjAcjM=
+  integrity sha512-vHdS19CnY3hwiNdkaqk93DvjVLfbEcI8mys4UjuWrlX1haDmroo8o4xCzh4wD6DGV6HxRCyauwhHRqMTfERtjw==
 
 body-parser@1.20.0, body-parser@^1.19.0:
   version "1.20.0"
@@ -4436,7 +4436,7 @@ body-parser@1.20.0, body-parser@^1.19.0:
 boolbase@^1.0.0, boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
-  integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
+  integrity sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==
 
 boxen@^4.2.0:
   version "4.2.0"
@@ -4521,7 +4521,7 @@ browserslist@^4.0.0, browserslist@^4.14.5, browserslist@^4.16.3, browserslist@^4
 buffer-equal@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/buffer-equal/-/buffer-equal-0.0.1.tgz#91bc74b11ea405bc916bc6aa908faafa5b4aac4b"
-  integrity sha1-kbx0sR6kBbyRa8aqkI+q+ltKrEs=
+  integrity sha512-RgSV6InVQ9ODPdLWJ5UAqBqJBOg370Nz6ZQtRzpt6nUjc8v0St97uJ4PYC6NztqIScrAXafKM3mZPMygSe1ggA==
 
 buffer-from@^1.0.0:
   version "1.1.2"
@@ -4633,7 +4633,7 @@ camel-case@4.1.2, camel-case@^4.1.2:
 camel-case@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/camel-case/-/camel-case-3.0.0.tgz#ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73"
-  integrity sha1-yjw2iKTpzzpM2nd9xNy8cTJJz3M=
+  integrity sha512-+MbKztAYHXPr1jNTSKQF52VpcFjwY5RkR7fxksV8Doo4KAYc5Fl4UJRgthBbTmEx8C54DqahhbLJkDwjI3PI/w==
   dependencies:
     no-case "^2.2.0"
     upper-case "^1.1.1"
@@ -4797,7 +4797,7 @@ cheerio@1.0.0-rc.3:
 cheerio@^0.22.0:
   version "0.22.0"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-0.22.0.tgz#a9baa860a3f9b595a6b81b1a86873121ed3a269e"
-  integrity sha1-qbqoYKP5tZWmuBsahocxIe06Jp4=
+  integrity sha512-8/MzidM6G/TgRelkzDG13y3Y9LxBjCb+8yOEZ9+wwq5gVF2w2pV0wmHvjfT0RvuxGyR7UEuK36r+yYMbT4uKgA==
   dependencies:
     css-select "~1.2.0"
     dom-serializer "~0.1.0"
