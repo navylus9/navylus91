@@ -21,22 +21,12 @@ tabs:
     rel: follow
     target: self
     url: /nous-contacter
-markup: © 2022 Foudroyer Purity. Tous les droits sont réservés
+markup: © 2022 Veganfeet. Tous les droits sont réservés
 networks:
   - label: Instagram
     rel: obfuscated
     target: blank
     network: instagram
     url: https://www.instagram.com/km_marques/
-  - label: Twitter
-    rel: obfuscated
-    target: blank
-    url: https://twitter.com/KM_Marques
-    network: twitter
-  - label: Linkedin
-    rel: obfuscated
-    target: blank
-    network: linkedin
-    url: https://www.linkedin.com/in/marques-kevin/
 id: 40010964-b9b3-40bc-8c8f-a8229ae96389
 ---
