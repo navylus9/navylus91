@@ -1,20 +1,36 @@
 ---
 type: header
 logo:
-  src: ../assets/logo.svg
-  alt: logo de foudroyer
+  src: ../assets/cre_me_et_noir_naturel_maquillage_beaute_logo.svg
+  alt: logo de veganfeet
 tabs:
-  - type: follow
-    theme: link
-    label: Tutoriels
-    url: /tutoriels
+  - label: ACCUEIL
     rel: follow
     target: self
+    theme: link
+    url: /
+  - type: follow
+    theme: link
+    label: FEMMES
+    url: /chaussure-vegan-femme
+    rel: follow
+    target: self
+  - label: HOMMES
+    rel: follow
+    target: self
+    theme: link
+    url: /chaussure-vegan-homme
+  - label: MARQUES VEGAN
+    rel: follow
+    target: self
+    theme: link
+    url: /marques-de-chaussures-vegan
 right:
   - type: follow
     theme: button
-    label: Créer un site gratuitement
-    url: https://app.netlify.com/start/deploy?repository=https://github.com/foudroyerdotcom/purity.foudroyer.com&stack=cms
-    rel: follow
+    label: Rejoignez-nous sur Instagram
+    url: https://www.instagram.com/veganfeet.fr/
+    rel: obfuscated
     target: blank
+id: 8ce31f4f-4378-4deb-9f86-f7a0abb95bcd
 ---
