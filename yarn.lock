@@ -1513,9 +1513,9 @@
   integrity sha512-Ekp6EbHqcWVwQI5SdAUn/G3EflzZBAvMwchkNp1saTqAwZA5EavfWbk4ops6U5yAYWGcVkXSJDHxu4rq4+M7ZA==
 
 "@foudroyer/purity@*":
-  version "1.18.8"
-  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.18.8.tgz#9f2d5f47e2cda49b21ba53639275713e6cc623ef"
-  integrity sha512-h7uQQ+i5W+fZokSt6WbNgPzAApJuAa5Mt2mLhUTpdB8qer137a6LUYWoEBRNFCgK4WOvNtmzFghYSKhpDFr32Q==
+  version "1.18.9"
+  resolved "https://registry.yarnpkg.com/@foudroyer/purity/-/purity-1.18.9.tgz#11ec1de6dad2295f80b10202e059f1c926b20ed6"
+  integrity sha512-w5OsjUdWhZvaBwElYhvpslrBl47Qnn5SPB9EWQXcvNhgG6n9tu7tQrLTly19NqmgkDWDWxJweHgXxuDHejYRQQ==
   dependencies:
     "@foudroyer/interfaces" "*"
     "@headlessui/react" "1.5.0"
