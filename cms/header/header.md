@@ -12,14 +12,14 @@ tabs:
   - type: follow
     theme: link
     label: FEMMES
-    url: /chaussure-vegan-femme
+    url: /chaussures-vegan-femmes
     rel: follow
     target: self
   - label: HOMMES
     rel: follow
     target: self
     theme: link
-    url: /chaussure-vegan-homme
+    url: /chaussures-vegan-hommes
   - label: MARQUES VEGAN
     rel: follow
     target: self
