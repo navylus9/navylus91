@@ -1,18 +1,22 @@
 ---
 type: footer
 logo:
-  src: ../assets/logo.svg
+  src: ../assets/cre_me_et_noir_naturel_maquillage_beaute_logo.svg
   alt: logo
 tabs:
   - type: follow
-    label: Tutoriels
-    url: /tutoriels/
-    rel: obfuscated
+    label: Accueil
+    url: /
+    rel: follow
     target: blank
   - label: Politique de confidentialité
     rel: obfuscated
     target: self
     url: /politique-de-confidentialite/
+  - label: À propos
+    rel: obfuscated
+    target: self
+    url: /à-propos
   - label: Nous contacter
     rel: follow
     target: self
@@ -34,4 +38,5 @@ networks:
     target: blank
     network: linkedin
     url: https://www.linkedin.com/in/marques-kevin/
+id: 40010964-b9b3-40bc-8c8f-a8229ae96389
 ---
