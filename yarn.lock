@@ -2769,9 +2769,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.71.1"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.71.1.tgz#b4941c1388d77d7f504ef1666517f90d98a621dd"
-  integrity sha512-Wd823rAm0enYa9+ZcCsJ0pGmlQklordG8xLQvU2KqlYkYN/fP4R1AYpqkUA5wnAwW7diQ+BBTETYZJLQTYAdWQ==
+  version "0.72.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.72.0.tgz#b8859d835a5d797110e796d0f35fcd952085121e"
+  integrity sha512-+tEw3+tuBZNLrMDW6t0Kw+W+Oz54MLmOqIHAqeTL67zqBcEyp+d5hu84YKHYOiedKY1T60RnH5pUY16gZeklIA==
 
 "@foudroyer/purity@*":
   version "1.18.9"
@@ -6036,9 +6036,9 @@ caniuse-lite@^1.0.30001565:
   integrity sha512-mtj5ur2FFPZcCEpXFy8ADXbDACuNFXg6mxVDqp7tqooX6l3zwm+d8EPoeOSIFRDvHs8qu7/SLFOGniULkcH2iA==
 
 caniuse-lite@^1.0.30001587:
-  version "1.0.30001620"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001620.tgz#78bb6f35b8fe315b96b8590597094145d0b146b4"
-  integrity sha512-WJvYsOjd1/BYUY6SNGUosK9DUidBPDTnOARHp3fSmFO1ekdxaY6nKRttEVrfMmYi80ctS0kz1wiWmm14fVc3ew==
+  version "1.0.30001621"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001621.tgz#4adcb443c8b9c8303e04498318f987616b8fea2e"
+  integrity sha512-+NLXZiviFFKX0fk8Piwv3PfLPGtRqJeq2TiNoUff/qB5KJgwecJTvCXDpmlyP/eCI/GUEmp/h/y5j0yckiiZrA==
 
 ccount@^1.0.0, ccount@^1.0.3:
   version "1.1.0"
@@ -7466,9 +7466,9 @@ electron-to-chromium@^1.4.601:
   integrity sha512-EmFMarXeqJp9cUKu/QEciEApn0S/xRcpZWuAm32U7NgoZCimjsilKXHRO9saeEW55eHZagIDg6XTUOv32w9pjg==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.777"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.777.tgz#f846fbba23fd11b3c6f97848cdda94896fdb8baf"
-  integrity sha512-n02NCwLJ3wexLfK/yQeqfywCblZqLcXphzmid5e8yVPdtEcida7li0A5WQKghHNG0FeOMCzeFOzEbtAh5riXFw==
+  version "1.4.778"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.778.tgz#1e429f3f9cf572936693a898c0527adf6123ef76"
+  integrity sha512-C6q/xcUJf/2yODRxAVCfIk4j3y3LMsD0ehiE2RQNV2cxc8XU62gR6vvYh3+etSUzlgTfil+qDHI1vubpdf0TOA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -14106,9 +14106,9 @@ postcss-reduce-transforms@^5.1.0:
     postcss-value-parser "^4.2.0"
 
 postcss-selector-parser@^6.0.2:
-  version "6.0.16"
-  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-6.0.16.tgz#3b88b9f5c5abd989ef4e2fc9ec8eedd34b20fb04"
-  integrity sha512-A0RVJrX+IUkVZbW3ClroRWurercFhieevHB38sr2+l9eUClMqome3LmEmnhlNy+5Mr2EYN6B2Kaw9wYdd+VHiw==
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-6.1.0.tgz#49694cb4e7c649299fea510a29fa6577104bcf53"
+  integrity sha512-UMz42UD0UY0EApS0ZL9o1XnLhSTtvvvLe5Dc2H2O56fvRZi+KulDyf5ctDhhtYJBGKStV2FL1fy6253cmLgqVQ==
   dependencies:
     cssesc "^3.0.0"
     util-deprecate "^1.0.2"
@@ -15925,9 +15925,9 @@ sisteransi@^1.0.5:
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
 sitemap@^7.0.0:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/sitemap/-/sitemap-7.1.1.tgz#eeed9ad6d95499161a3eadc60f8c6dce4bea2bef"
-  integrity sha512-mK3aFtjz4VdJN0igpIJrinf3EO8U8mxOPsTBzSsy06UtjZQJ3YY3o3Xa7zSc5nMqcMrRwlChHZ18Kxg0caiPBg==
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/sitemap/-/sitemap-7.1.2.tgz#6ce1deb43f6f177c68bc59cf93632f54e3ae6b72"
+  integrity sha512-ARCqzHJ0p4gWt+j7NlU5eDlIO9+Rkr/JhPFZKKQ1l5GCus7rJH4UdrlVAh0xC/gDS/Qir2UMxqYNHtsKr2rpCw==
   dependencies:
     "@types/node" "^17.0.5"
     "@types/sax" "^1.2.1"
