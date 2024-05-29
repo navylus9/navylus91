@@ -2809,9 +2809,9 @@
     strip-json-comments "^3.1.1"
 
 "@foudroyer/interfaces@*":
-  version "0.72.0"
-  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.72.0.tgz#b8859d835a5d797110e796d0f35fcd952085121e"
-  integrity sha512-+tEw3+tuBZNLrMDW6t0Kw+W+Oz54MLmOqIHAqeTL67zqBcEyp+d5hu84YKHYOiedKY1T60RnH5pUY16gZeklIA==
+  version "0.74.0"
+  resolved "https://registry.yarnpkg.com/@foudroyer/interfaces/-/interfaces-0.74.0.tgz#2b0dec53de259f1b3c1221f1e2fcf7095de881ab"
+  integrity sha512-l3eXGEEnTgFIKPMAH0a+MKdCXV4AsBkqG2N0o/SSPrbr/qUcRqjblcxjyKiE5mqneDI/52yyG4orl0+NGGOEeA==
 
 "@foudroyer/purity@*":
   version "1.18.9"
@@ -6076,9 +6076,9 @@ caniuse-lite@^1.0.30001565:
   integrity sha512-mtj5ur2FFPZcCEpXFy8ADXbDACuNFXg6mxVDqp7tqooX6l3zwm+d8EPoeOSIFRDvHs8qu7/SLFOGniULkcH2iA==
 
 caniuse-lite@^1.0.30001587:
-  version "1.0.30001623"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001623.tgz#e982099dcb229bb6ab35f5aebe2f8d79ccf6e8a8"
-  integrity sha512-X/XhAVKlpIxWPpgRTnlgZssJrF0m6YtRA0QDWgsBNT12uZM6LPRydR7ip405Y3t1LamD8cP2TZFEDZFBf5ApcA==
+  version "1.0.30001624"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001624.tgz#0ec4c8fa7a46e5b785477c70b38a56d0b10058eb"
+  integrity sha512-0dWnQG87UevOCPYaOR49CBcLBwoZLpws+k6W37nLjWUhumP1Isusj0p2u+3KhjNloRWK9OKMgjBBzPujQHw4nA==
 
 ccount@^1.0.0, ccount@^1.0.3:
   version "1.1.0"
