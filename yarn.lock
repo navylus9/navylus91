@@ -6138,9 +6138,9 @@ caniuse-lite@^1.0.30001565:
   integrity sha512-mtj5ur2FFPZcCEpXFy8ADXbDACuNFXg6mxVDqp7tqooX6l3zwm+d8EPoeOSIFRDvHs8qu7/SLFOGniULkcH2iA==
 
 caniuse-lite@^1.0.30001646:
-  version "1.0.30001646"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001646.tgz#d472f2882259ba032dd73ee069ff01bfd059b25d"
-  integrity sha512-dRg00gudiBDDTmUhClSdv3hqRfpbOnU28IpI1T6PBTLWa+kOj0681C8uML3PifYfREuBrVjDGhL3adYpBT6spw==
+  version "1.0.30001647"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001647.tgz#56d58c5a4ef72913a4465f9766af895a4ead0165"
+  integrity sha512-n83xdNiyeNcHpzWY+1aFbqCK7LuLfBricc4+alSQL2Xb6OR3XpnQAmlDG+pQcdTfiHRuLcQ96VOfrPSGiNJYSg==
 
 ccount@^1.0.0, ccount@^1.0.3:
   version "1.1.0"
